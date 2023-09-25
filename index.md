@@ -6,3 +6,6 @@
 ``` javascript
 let myName = "Hello, my name is Susanna!";
 ```
+- [x] Create a task list
+- [x] Mark two tasks as done
+- [ ] This task sould remain empty
